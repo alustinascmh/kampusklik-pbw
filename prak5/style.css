@@ -1,0 +1,40 @@
+.gambar{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    border-radius: 20px;
+}
+
+.poppins-bold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.div-pertama {
+    /* background-color: aqua; */
+    margin-left:auto;
+    margin-right:auto;
+    padding: 50px 0 50px 0;
+    display: flex;
+    justify-content: center;
+}
+
+.div-pertama-1 {
+    /* background-color: bisque; */
+    display : flex;
+    width: 60%;
+}
+
+.div-pertama-2 {
+    /* background-color: azure; */
+    padding:10px;
+    text-align: justify;
+}
+
+.text {
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+    font-size: 11px;
+}

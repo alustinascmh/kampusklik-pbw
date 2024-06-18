@@ -1,0 +1,91 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: sans-serif;
+    font-size: 12px;
+    color: #333;
+}
+
+.font {
+    font-size: 14px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header {
+    background-color: #B5C0D0;
+    color: #3C3633;
+    padding: 20px;
+    text-align: center;
+}
+
+td {
+    padding: 20px;
+}
+
+.footer {
+    background-color: #B5C0D0;
+    color: #3C3633;
+    padding: 7px;
+    text-align: center;
+    font-size: 14px;
+}
+
+.text {
+    text-align: center;
+}
+
+.kiri, .kanan {
+    background-color: #EED3D9;
+}
+
+.tengah {
+    background-color: #F5E8DD;
+    font-size: 16px;
+}
+
+.gambar{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+
+.margin {
+    margin-left: 14px;
+}
+
+.porto {
+    background-color: #EEF0E5;
+    text-align: justify;
+}
+
+.kontak {
+    background-color: #637A9F;
+    font-size: 16px;
+    text-align: center;
+    padding: 10px;
+    color: white;
+}
+
+.bg-kontak {
+    background-color: #EFECEC;
+}
+
+.judul-lowongan {
+    background-color: #AAD7D9;
+    color: #3C3633;
+    padding: 7px;
+    font-size: 14px;
+}
+
+#tombol-lowongan {
+    background-color: #FF9BD2;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 4px;
+}
